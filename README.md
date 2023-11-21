@@ -21,4 +21,4 @@ Syntax: git branch -a
 13. Merge the pull request into parent or any other branch you want to merge it into
 
 
-Test.
+Test. This is another test.
