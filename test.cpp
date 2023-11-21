@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    cout << "Test commit!";
+    cout << "This is a test change";
 
     return 0;
 }
