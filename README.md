@@ -25,3 +25,10 @@ To pull changes from the parent repository
 syntax: git fetch upstream
 syntax: git merge upstream/main
 **if you want to update another branch in your repository change to the branh using checkout and pull the changes and merge as mentioned before
+
+How to delete a branch
+git branch -a
+** before deleting a branch checkout to another branch
+git branch --delete dev
+to delete the remote branch
+git push origin --delete dev
