@@ -1,19 +1,20 @@
-# DSA-Prep
+# Data Structures and Algorithms Prep
+
+---
+
+## About this repository
+This is a repository by Abhay Chauhan and Desh Iyer for practice data structures and algorithms in C++.
 
 ## Table of Contents
 
-- [DSA-Prep](#dsa-prep)
-  - [Table of Contents](#table-of-contents)
+- [Data Structures and Algorithms Prep](#data-structures-and-algorithms-prep)
   - [About this repository](#about-this-repository)
+  - [Table of Contents](#table-of-contents)
   - [Contributing to Public Repositories](#contributing-to-public-repositories)
     - [Getting Started](#getting-started)
     - [Creating a Pull Request (PR)](#creating-a-pull-request-pr)
     - [Updating the Clone](#updating-the-clone)
     - [Deleting a Branch](#deleting-a-branch)
-
-
-## About this repository
-This is a repository by Abhay Chauhan and Desh Iyer for practice data structures and algorithms in C++.
 
 ## Contributing to Public Repositories
 
