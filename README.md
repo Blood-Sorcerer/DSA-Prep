@@ -19,3 +19,6 @@ Syntax: git branch -a
 11. git push origin dev (this publishes(uploads) the changes to the cloned repository )
 12. create pull request to parent repository from parent repository's github
 13. Merge the pull request into parent or any other branch you want to merge it into
+
+
+Test.
